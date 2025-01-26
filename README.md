@@ -54,11 +54,11 @@ pip install flask
 
 ## Templates
 
-1. ``
+1. `upload.html`  
 
    - Displays the upload form for two database files.
 
-2. ``
+2. `results.html`
 
    - Displays the comparison results in a tabular format.
 
