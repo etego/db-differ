@@ -52,17 +52,6 @@ pip install flask
      - Tables unique to each database.
      - Rows present in one database but missing in the other for common tables.
 
-## File Structure
-
-```
-project/
-uc0u9500 u9472 u9472  app.py               # Main application script
-uc0u9500 u9472 u9472  templates/
-uc0u9474    u9500 u9472 u9472  upload.html      # File upload form template
-uc0u9474    u9492 u9472 u9472  results.html     # Comparison results display template
-uc0u9492 u9472 u9472  uploads/             # Directory to store uploaded database files
-```
-
 ## Templates
 
 1. ``
